@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi humans!
+
+I would love to practice here! cool!
+nice to meet you here!
